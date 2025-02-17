@@ -16,7 +16,7 @@ cymem==2.0.8
 distlib==0.3.9
 dj-database-url==2.3.0
 dj-static==0.0.6
-Django==5.1.1
+Django==5.1.5
 docutils==0.21.2
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl#sha256=6a0f857a2b4d219c6fa17d455f82430b365bf53171a2d919b9376e5dc9be032e
 filelock==3.16.1
